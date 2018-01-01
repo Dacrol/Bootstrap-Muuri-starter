@@ -1,1 +1,1 @@
-Bootstrap-Muuri-starter
+Bootstrap + Muuri starter
